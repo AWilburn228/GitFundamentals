@@ -1,0 +1,10 @@
+## Git Commands 
+ - [gitinit](./Commands/Init.md) 
+- [gitConfig](./Commands/Config.md) 
+- [git add](./Commands/Add.md) 
+-[git commit](./Commands/commit.md) 
+- [git remote](./Commands/Remote.md) 
+- [git push](./commands/PUSH.md) 
+[git pull](./Commands/Pull.md)  
+[git status](./Commands/Status.md)
+[git clone](./Commands/Clone.md) 
